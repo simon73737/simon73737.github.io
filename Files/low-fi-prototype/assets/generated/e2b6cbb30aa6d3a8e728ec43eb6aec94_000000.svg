@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="71px" height="71px" viewBox="0 0 71 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Avatar3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="33.5" cy="33.5" r="33.5"></circle>
+        <path d="M45.5928,46.18432 C44.847,45.2928 43.9274,44.54912 42.8714,44.01824 L35.0746,40.10048 C33.88,39.50016 33.0682,38.32192 32.9252,36.98016 L32.813,35.9184 C32.714,34.97088 32.912,33.99872 33.4664,33.2304 C34.2232,32.18208 34.7314,30.93664 34.8898,29.56576 L35.035,28.28 C36.1592,28.28 37.1228,27.4736 37.3362,26.35808 L37.7476,24.19872 C37.961,23.06528 37.3384,21.9408 36.2714,21.53536 L35.8226,21.36288 L36.2384,17.68256 C36.7664,13.0368 33.1716,8.96 28.5472,8.96 L25.8478,8.96 C21.2212,8.96 17.6286,13.0368 18.1544,17.68256 L18.5746,21.36288 L18.1236,21.53536 C17.0544,21.9408 16.4318,23.06528 16.6496,24.19872 L17.0588,26.35808 C17.2722,27.4736 18.2358,28.28 19.36,28.28 L19.5074,29.56576 C19.6614,30.93664 20.1718,32.18208 20.9286,33.2304 C21.4808,33.99872 21.681,34.97088 21.582,35.91616 L21.4676,36.98016 C21.3268,38.32192 20.5172,39.50016 19.3204,40.10048 L11.5236,44.01824 C10.4676,44.54912 9.548,45.2928 8.8,46.18432 C8.8,46.18432 13.6642,54.41856 27.1986,54.41856 C40.7308,54.41856 45.5928,46.18432 45.5928,46.18432" id="path-3"></path>
+    </defs>
+    <g id="📱-Individual-Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Signup-5" transform="translate(-150.000000, -95.000000)">
+            <g id="Avatar3" transform="translate(152.000000, 97.000000)">
+                <mask id="mask-2" fill="#000000">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <circle stroke="#000000" stroke-width="1.5" cx="33.5" cy="33.5" r="34.25"></circle>
+                <g id="UI/Master-Color" mask="url(#mask-2)">
+                    <g transform="translate(-25.311111, -4.466667)" id="Color">
+                        <rect fill="#000000" x="0" y="0" width="104" height="107"></rect>
+                        <rect fill="#000000" x="0" y="0" width="104" height="107"></rect>
+                    </g>
+                </g>
+                <g id="Icon/Avatar-Male-Circle-Fill" mask="url(#mask-2)">
+                    <g transform="translate(6.000000, 5.000000)">
+                        <mask id="mask-4" fill="#000000">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Icon-Shape" stroke="none" fill="#000000" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <g id="UI/Colors/White" stroke="none" fill="none" mask="url(#mask-4)" fill-rule="evenodd">
+                            <rect id="Color" fill="#000000" x="0" y="0" width="55" height="56"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
